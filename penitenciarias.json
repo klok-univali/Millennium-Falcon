@@ -1,0 +1,55 @@
+[
+  {
+    "Nome" : "Complexo Penitenciario do Estado (COPE) - Sao Pedro de Alcantara",
+    "Latitude" : -27.580731,
+    "Longitude" : -48.753591
+  },
+
+  {
+    "Nome" : "Presidio Regional de Tijucas",
+    "Latitude" : -27.271229,
+    "Longitude" : -48.681675
+  },
+
+  {
+    "Nome" : "Colonia Penal Agricola de Palhoca",
+    "Latitude" : -27.649402,
+    "Longitude" : -48.696245
+  },
+
+  {
+    "Nome" : "Penitenciaria de Florianopolis",
+    "Latitude" : -27.577589,
+    "Longitude" : -48.526740
+  },
+
+  {
+    "Nome" : "Casa do Albergado de Florianopolis",
+    "Latitude" : -27.588148,
+    "Longitude" : -48.523054
+  },
+
+  {
+    "Nome" : "Hospital de Custodia e Tratamento Psiquiatrico (HCTP)",
+    "Latitude" : -27.577930,
+    "Longitude" : -48.527043
+  },
+
+  {
+    "Nome" : "Presidio Regional de Biguacu",
+    "Latitude" : -27.496380,
+    "Longitude" : -48.654360
+  },
+
+  {
+    "Nome" : "Presidio Masculino de Florianopolis",
+    "Latitude" : -27.580185,
+    "Longitude" : -48.526691
+  },
+
+  {
+    "Nome" : "Presidio Feminino de Florianopolis",
+    "Latitude" : -27.588129,
+    "Longitude" : -48.523043
+  }
+]
